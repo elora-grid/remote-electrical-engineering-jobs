@@ -1,0 +1,35 @@
+{
+ "snapshot": "2026-10-14",
+ "jobs": 823,
+ "fullyRemote": 730,
+ "companies": 266,
+ "jobsListingPay": 527,
+ "medianAnnualPayMidpoint": 145350,
+ "fields": [
+  "Buildings & data centers",
+  "Chips & semiconductors",
+  "Controls & automation",
+  "Electronics & hardware",
+  "Other electrical",
+  "Power systems & utilities",
+  "Renewables, storage & EV"
+ ],
+ "files": {
+  "data/jobs.json": {
+   "sha256": "c4ad1298482ced8e30892a230ee6e406a4f046a8f9fbff5c7eefca78654e275c",
+   "bytes": 1125677
+  },
+  "data/jobs.csv": {
+   "sha256": "bc676381130c3c86b5b42b85c5449f461230561944e3f17c081e9352b04fe7cb",
+   "bytes": 378949
+  },
+  "data/companies.csv": {
+   "sha256": "6a111dba8eeee5ebf9cb7f8d24dfe1b9d2cfae0482e545717c5f66d16d99f047",
+   "bytes": 37004
+  },
+  "data/top-100-paying-fully-remote.csv": {
+   "sha256": "36f6271f293d881d7f2bc1d5a641a9050275eec27314b201d96a34864091c295",
+   "bytes": 26424
+  }
+ }
+}

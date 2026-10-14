@@ -1,0 +1,17 @@
+# Remote Electrical Engineering Jobs (USA)
+
+> Open dataset of 823 work-from-home electrical engineering jobs at 266 US employers (730 fully remote), each read from the employer's own careers page. Snapshot checked 14 October 2026. Pay, state limits, clearance, citizenship, PE licence and travel requirements are recorded per job.
+
+## Canonical website
+
+- [Search the jobs](https://eloragrid.ai/tools/remote-ee-jobs): free Elora Grid tool with filters for field, pay, state and fully remote roles.
+
+## Repository resources
+
+- [Agent guide](AGENTS.md): field meanings and rules for answers.
+- [Jobs JSON](data/jobs.json): complete snapshot.
+- [Jobs CSV](data/jobs.csv): one row per job.
+- [Companies CSV](data/companies.csv): one row per employer.
+- [Top 100 by pay](data/top-100-paying-fully-remote.csv): fully remote jobs ranked by pay midpoint.
+- [Schema](schema/jobs.schema.json): record structure.
+- [Manifest](data/manifest.json): counts and file hashes.
